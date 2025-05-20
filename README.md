@@ -1,9 +1,9 @@
 
-# 「05月20日」每日更新免费节点，SSR/V2ray/Clash/Shadowrocket免费节点订阅链接。
+# 「05月21日」每日更新免费节点，SSR/V2ray/Clash/Shadowrocket免费节点订阅链接。
 
-2025年05月20日
-           本次更新共15个可用节点，最高速度12M/S。
-           覆盖美国、新加坡、日本、俄罗斯等多个区域。
+2025年05月21日
+           本次更新共43个可用节点，最高速度15M/S。
+           覆盖美国、新加坡、日本、俄罗斯、越南等多个区域。
            复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
         
 
@@ -17,19 +17,17 @@
 
 购买套餐时输入【fuuu.cloud】优惠码，可享7折优惠，折后低至8元/月。
 
-🎁 五一劳动节特惠活动：5月1日至5月20日期间，购买季套餐赠送月套餐，购买年套餐赠送季套餐。
-
 点击进入[福云机场官网](https://fuuu.cloud)。
 
 ## 免费节点订阅链接
 
 v2ray订阅链接：
 
-https://clashfreenode.com/feed/v2ray-20250520.txt 
+https://clashfreenode.com/feed/v2ray-20250521.txt 
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250520.yaml
+https://clashfreenode.com/feed/clash-20250521.yaml
 
 ## 温馨提示
 
