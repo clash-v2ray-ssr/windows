@@ -1,8 +1,8 @@
 
-# 「06月13日」每日更新免费节点，SSR/V2ray/Clash/Shadowrocket免费节点订阅链接。
+# 「06月15日」每日更新免费节点，SSR/V2ray/Clash/Shadowrocket免费节点订阅链接。
 
-2025年06月13日
-           本次更新共30个可用节点，最高速度21M/S。
+2025年06月15日
+           本次更新共27个可用节点，最高速度9M/S。
            覆盖美国、日本、新加坡、台湾等多个区域。
            复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
         
@@ -23,11 +23,11 @@
 
 v2ray订阅链接：
 
-https://clashfreenode.com/feed/v2ray-20250613.txt 
+https://clashfreenode.com/feed/v2ray-20250615.txt 
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250613.yaml
+https://clashfreenode.com/feed/clash-20250615.yaml
 
 ## 温馨提示
 
